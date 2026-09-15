@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padin : 0
+}
+body {
+    font-side: 16px;
+    font-side: Arial , Helvetica, sans-serif;
+    color: rgb(255, 0, 0);
+    background-color:rgb(39, 0, 0) ;
+    paddin: 1.25rem ;
+    max-width: 50rem ;
+    margin: auto ;
+}
+header img{
+    background-color: rgb(87, 0, 0);
+    color :#ffffff ;
+    border: #ffffff; 
+    border-top: #ffffff;  
+
+    
+}
